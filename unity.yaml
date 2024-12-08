@@ -1,0 +1,8 @@
+flutter:
+  channels:
+    - stable
+build:
+  target: ios
+  ios:
+    signing:
+      method: automatic
