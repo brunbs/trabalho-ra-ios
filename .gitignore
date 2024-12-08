@@ -1,0 +1,29 @@
+# Ignore a pasta do Unity Library
+[Ll]ibrary/
+
+# Ignore a pasta do Unity Temp
+[Tt]emp/
+
+# Ignore as pastas de build
+[Bb]uild/
+[Bb]uilds/
+
+# Ignore arquivos de log
+[Ll]ogs/
+
+# Ignore o arquivo de configuração do Visual Studio
+.vscode/
+
+# Ignore arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore os arquivos de cache do Unity
+.idea/
+
+# Ignore arquivos do Unity Asset Store
+AssetStoreTools*
+
+# Ignorar arquivos de metadados de plugins
+*.pidb
+*.userprefs

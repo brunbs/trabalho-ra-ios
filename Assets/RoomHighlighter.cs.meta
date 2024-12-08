@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3d166dfbe05d6e849b931ff4d357290f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plantaUI: {fileID: 7512835397614949566, guid: 7e84ba801809cf946a1c21b4913ab65f, type: 3}
+  - highlight: {fileID: 4330284605808389471, guid: e85d038a04c856e49a3bccee1a8184ee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

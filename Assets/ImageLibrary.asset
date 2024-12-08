@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4952862444911718869
+  m_GuidHigh: 7179614149796042928
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5569961573492812762
+      m_GuidHigh: 11285353361187497132
+    m_SerializedTextureGuid:
+      m_GuidLow: 5819927814552377299
+      m_GuidHigh: 4790026257921271563
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: banheiro-gatos
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4736039768117174183
+      m_GuidHigh: 10227158739571542701
+    m_SerializedTextureGuid:
+      m_GuidLow: 3536652637541492367
+      m_GuidHigh: 7923995900123189433
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: banheiro-quarto
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5377610810017446970
+      m_GuidHigh: 11787432801749565597
+    m_SerializedTextureGuid:
+      m_GuidLow: 13863223549795065921
+      m_GuidHigh: 17877970852484935416
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: corredor
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5048929402971216319
+      m_GuidHigh: 10262207169805123984
+    m_SerializedTextureGuid:
+      m_GuidLow: 1798342516121739025
+      m_GuidHigh: 13089617780141836137
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: cozinha
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4999327222381558831
+      m_GuidHigh: 8517617329069764257
+    m_SerializedTextureGuid:
+      m_GuidLow: 16367433319171294400
+      m_GuidHigh: 2314269566595929657
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: escritorio
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5232043548411206745
+      m_GuidHigh: 1051771962093703345
+    m_SerializedTextureGuid:
+      m_GuidLow: 3316038416828168669
+      m_GuidHigh: 12994491815458009576
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: gatos
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4788211982094177931
+      m_GuidHigh: 4199012256542618282
+    m_SerializedTextureGuid:
+      m_GuidLow: 4360655150735306786
+      m_GuidHigh: 1402560029346292073
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: quarto
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4760331604407631788
+      m_GuidHigh: 3320578946819362199
+    m_SerializedTextureGuid:
+      m_GuidLow: 9521777718972435142
+      m_GuidHigh: 15573766421360205352
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: sala
+    m_Texture: {fileID: 0}
